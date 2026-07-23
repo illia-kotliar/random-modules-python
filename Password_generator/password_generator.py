@@ -1,4 +1,4 @@
-from Password_generator.generate_function import generate_password
+from generate_function import generate_password
 import time
 import os
 
